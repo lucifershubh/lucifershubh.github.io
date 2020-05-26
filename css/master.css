@@ -90,8 +90,8 @@
    }
   .l li a:hover {
     /* set the text color to red here */
-    background-color: #ADEFD1FF;
-    color: ORANGE;
+    background-color:transparent;
+    color: #4cd137;
     border-color: blue;
     transition: 0.5s ease;
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
