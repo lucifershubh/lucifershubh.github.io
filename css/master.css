@@ -96,6 +96,9 @@
     transition: 0.5s ease;
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
+span{
+    color: red;
+}
   body {
     /* margin-right: auto; */
     color: black;
